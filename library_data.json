@@ -1,0 +1,86 @@
+{
+    "books": [
+        {
+            "book_name": "The Great Adventure",
+            "author_name": "John Stevens",
+            "borrowed_by": null
+        },
+        {
+            "book_name": "Mystery of the Moon",
+            "author_name": "Emily Harper",
+            "borrowed_by": "Israa (ID: 11115)"
+        },
+        {
+            "book_name": "Whispers in the Wind",
+            "author_name": "David Black",
+            "borrowed_by": null
+        },
+        {
+            "book_name": "The Silent River",
+            "author_name": "Sarah Greene",
+            "borrowed_by": null
+        },
+        {
+            "book_name": "Shadows of the Past",
+            "author_name": "Mark Johnson",
+            "borrowed_by": null
+        },
+        {
+            "book_name": "Journey to the Unknown",
+            "author_name": " Alice King",
+            "borrowed_by": null
+        },
+        {
+            "book_name": "The Secret Garden",
+            "author_name": "Henry Miller",
+            "borrowed_by": null
+        },
+        {
+            "book_name": "Tales of the Lost Kingdom",
+            "author_name": "Charlotte Williams",
+            "borrowed_by": null
+        },
+        {
+            "book_name": "Beyond the Horizon",
+            "author_name": "James Peterson",
+            "borrowed_by": null
+        },
+        {
+            "book_name": "Echoes of Eternity",
+            "author_name": "Olivia Smith",
+            "borrowed_by": null
+        },
+        {
+            "book_name": "book5",
+            "author_name": "abdo",
+            "borrowed_by": "israa (ID: 11115)"
+        }
+    ],
+    "customers": [
+        {
+            "customer_name": "Abdelrhman",
+            "customer_id": 11111
+        },
+        {
+            "customer_name": "Mohamed",
+            "customer_id": 11112
+        },
+        {
+            "customer_name": "Salwa",
+            "customer_id": 11113
+        },
+        {
+            "customer_name": "Israa",
+            "customer_id": 11115
+        },
+        {
+            "customer_name": "Gehad",
+            "customer_id": 11117
+        },
+        {
+            "customer_name": "fatima",
+            "customer_id": 11122
+        }
+    ],
+    "next_customer_id": 11123
+}
